@@ -26,7 +26,7 @@ JavaScript Notes:
   * They can hold multiple data types :point-left: (Specifics)
   
 ### The Cornell Method
-This method is a _little_ more tough to use. You essentially outline 3 different columns/areas calld **Cues, Notes and Summary**. In the notes section, you will take notes on the lecture/lesson you were taking. In the cues section, you will note down keywords, questions that weren't answered, important points that make learning easier or learning prompts that make understanding easier (or vice versa). In the summary section :exclamation: **WHICH YOU WON'T TOUCH UNTIL AFTER THE LESSON IS DONE!** :exclamation: you will take a good look at your notes and write down a summary based on those notes. 
+This method is a _little_ more tough to use. You essentially outline 3 different columns/areas calld **Cues, Notes and Summary**. In the notes section, you will take notes on the lecture/lesson you were taking. In the cues section, you will note down keywords, questions that weren't answered, important points that make learning easier or learning prompts that make understanding easier (or vice versa) or make great review. In the summary section :exclamation: **WHICH YOU WON'T TOUCH UNTIL AFTER THE LESSON IS DONE!** :exclamation: you will take a good look at your notes and write down a summary based on those notes. 
 
 Example: \
 **Notes:**
